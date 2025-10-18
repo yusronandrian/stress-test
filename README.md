@@ -25,10 +25,9 @@ Follow these steps to run your first load test and view the results.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [stress-test](https://github.com/yusronandrian/stress-test)
+    git clone https://github.com/yusronandrian/stress-test
     cd stress-test
     ```
-    *(Replace `[stress-test](https://github.com/yusronandrian/stress-test)` and `stress-test` with your actual repository details.)*
 
 2.  **Run the Load Test:**
     Use the provided scripts to start the services and execute the k6 test.
